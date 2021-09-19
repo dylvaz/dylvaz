@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vazquezadylan@gmail.com**
 
-- ⚡ Fun fact **I love chess! Challenge me [here](https://lichess.org/@/braiinn)
+- ⚡ Fun fact **I love chess! Challenge me [here](https://lichess.org/@/braiinn)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
