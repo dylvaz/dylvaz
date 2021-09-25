@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building full-stack apps with AWS.](https://github.com/dylvaz/spaces-backend)
 
-- 🌱 I’m currently learning **Rust, C#, and Go.**
+- 🌱 I’m currently learning **Rust and C#.**
 
 - 💬 Ask me about **React, TypeScript, and PostgreSQL.**
 
