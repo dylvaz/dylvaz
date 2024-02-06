@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [building full-stack apps with AWS.](https://github.com/dylvaz/spaces-backend)
 
-- 🌱 I’m currently learning **Rust and C#.**
+- 🌱 I’m currently learning **C#.**
 
-- 💬 Ask me about **React, TypeScript, and PostgreSQL.**
+- 💬 Ask me about **React, TypeScript, AWS, and PostgreSQL.**
 
 - 📫 How to reach me **vazquezadylan@gmail.com**
 
